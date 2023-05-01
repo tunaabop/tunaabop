@@ -1,7 +1,7 @@
 ### Hi, I'm Tina 👋 👩🏻‍💻
 
 
-[![Linkedin: Tina](link=https://www.linkedin.com/in/tunaabop/)](https://www.linkedin.com/in/tunaabop/)
+[![Linkedin: Tina](https://img.shields.io/badge/-Tina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tunaabop/)](https://www.linkedin.com/in/tunaabop/)
 
 <!--
 **tunaabop/tunaabop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
