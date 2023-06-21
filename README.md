@@ -9,7 +9,8 @@
 🎓 &nbsp;I'm a recent graduate (class of 2022) from University of California, San Diego, majoring in Mathematics-Computer Science.\
 💡 &nbsp;Some technologies I enjoy working with include SQL, Python, Java, React, JavaScript, NodeJS, and ExpressJS. Currently exploring MERN Stack Development.\
 🌱 &nbsp;I'm on track for learning more about Full-Stack Development, DevOps, and Algorithms.\
-![Tina's Leetcode Stats](https://leetcard.jacoblin.cool/tunaabop?theme=light&font=Chelsea%20Market)
+🌱 &nbsp;Watch me struggle on LeetCode
+![Tina's Leetcode Stats](https://leetcard.jacoblin.cool/tunaabop?theme=light&font=Chelsea%20Market)\
 ✉️ &nbsp;You can shoot me an email at tinawang158@gmail.com! I'll try to respond as soon as I can!
 
 
