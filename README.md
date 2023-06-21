@@ -6,7 +6,8 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 
-🎓 &nbsp;I'm a recent graduate (class of 2022) from University of California, San Diego, majoring in Mathematics-Computer Science.\
+🎓 &nbsp;I'm a recent graduate (class of 2022) from University of California, San Diego (UCSD), majoring in Mathematics-Computer Science.\
+🎓 &nbsp;Also a recent graduate (Jun 2023) from UCSD's Full-Stack Coding Bootcamp.\
 💡 &nbsp;Some technologies I enjoy working with include SQL, Python, Java, React, JavaScript, NodeJS, and ExpressJS. Currently exploring MERN Stack Development.\
 🌱 &nbsp;I'm on track for learning more about Full-Stack Development, DevOps, and Algorithms.
 
