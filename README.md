@@ -12,7 +12,6 @@
 🌱 &nbsp;I'm on track for learning more about Full-Stack Development.
 
 - Currently practicing on <a href="https://www.leetcode.com/tunaabop/">LeetCode</a>\
-![Tina's Leetcode Stats](https://leetcard.jacoblin.cool/tunaabop?theme=forest&font=Oxygen&ext=activity)
 - Always learning! Checkout my <a href="https://www.linkedin.com/in/tunaabop/">LinkedIn</a> portfolio
 
 ✉️ &nbsp;You can shoot me an email at tinawang158@gmail.com! I'll try to respond as soon as I can!
