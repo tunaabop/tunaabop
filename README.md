@@ -6,10 +6,10 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 
-🎓 &nbsp;I'm a recent graduate (class of 2022) from University of California, San Diego (UCSD), majoring in Mathematics-Computer Science.\
+🎓 &nbsp;I'm a Math-Computer Science graduate (class of 2022) from University of California, San Diego (UCSD).\
 🎓 &nbsp;Also a recent graduate (Jun 2023) from UCSD's Full-Stack Coding Bootcamp.\
-💡 &nbsp;Some technologies I enjoy working with include SQL, Python, Java, React, JavaScript, NodeJS, and ExpressJS. Currently exploring MERN Stack Development.\
-🌱 &nbsp;I'm on track for learning more about Full-Stack Development, DevOps, and Algorithms.
+💡 &nbsp;Some technologies I enjoy working with include SQL, Python, Java, React, JavaScript, NodeJS, and ExpressJS. Currently exploring Java apps and searche engines.\
+🌱 &nbsp;I'm on track for learning more about Full-Stack Development.
 
 - Currently practicing on <a href="https://www.leetcode.com/tunaabop/">LeetCode</a>\
 ![Tina's Leetcode Stats](https://leetcard.jacoblin.cool/tunaabop?theme=forest&font=Oxygen&ext=activity)
