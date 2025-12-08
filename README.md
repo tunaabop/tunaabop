@@ -11,7 +11,7 @@
 💡 &nbsp;Some technologies I enjoy working with include SQL, Python, Java, React, JavaScript, NodeJS, and ExpressJS. Currently exploring Java apps and searche engines.\
 🌱 &nbsp;I'm on track for learning more about Full-Stack Development.
 
-- Currently practicing on <a href="https://www.leetcode.com/tunaabop/">LeetCode</a>\
+- Currently practicing on <a href="https://www.leetcode.com/tunaabop/">LeetCode</a>
 - Always learning! Checkout my <a href="https://www.linkedin.com/in/tunaabop/">LinkedIn</a> portfolio
 
 ✉️ &nbsp;You can shoot me an email at tinawang158@gmail.com! I'll try to respond as soon as I can!
