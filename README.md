@@ -7,7 +7,7 @@
 
 
 🎓 &nbsp;I'm a Math-Computer Science graduate (class of 2022) from University of California, San Diego (UCSD).\
-🎓 &nbsp;Also a recent graduate (Jun 2023) from UCSD's Full-Stack Coding Bootcamp.\
+🎓 &nbsp;Also a graduate (Jun 2023) from UCSD's Full-Stack Coding Bootcamp.\
 💡 &nbsp;Some technologies I enjoy working with include SQL, Python, Java, React, JavaScript. Currently exploring Java apps and search engines.\
 🌱 &nbsp;I'm on track for learning more about PostgreSQL.
 
