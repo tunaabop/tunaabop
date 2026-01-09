@@ -8,9 +8,10 @@
 
 🎓 &nbsp;I'm a Math-Computer Science graduate (class of 2022) from University of California, San Diego (UCSD).\
 🎓 &nbsp;Also a recent graduate (Jun 2023) from UCSD's Full-Stack Coding Bootcamp.\
-💡 &nbsp;Some technologies I enjoy working with include SQL, Python, Java, React, JavaScript, NodeJS, and ExpressJS. Currently exploring Java apps and search engines.\
+💡 &nbsp;Some technologies I enjoy working with include SQL, Python, Java, React, JavaScript. Currently exploring Java apps and search engines.\
 🌱 &nbsp;I'm on track for learning more about PostgreSQL.
 
+- Checkout my Notion page on <a href="https://workable-scowl-3be.notion.site/2e247bf408978115969feb38739d9a76?v=2e247bf408978122905e000c0fd9a1e3">learning PostgreSQL</a>
 - Currently practicing SQL on <a href="https://www.leetcode.com/tunaabop/">LeetCode</a>
 - Always learning! Checkout my <a href="https://www.linkedin.com/in/tunaabop/">LinkedIn</a> portfolio
 
