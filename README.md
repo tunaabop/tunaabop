@@ -12,7 +12,7 @@
 🌱 &nbsp;I'm on track for learning more about PostgreSQL.
 
 - Checkout my Notion page on <a href="https://workable-scowl-3be.notion.site/2e247bf408978115969feb38739d9a76?v=2e247bf408978122905e000c0fd9a1e3">learning PostgreSQL</a>
-- Currently practicing SQL on <a href="https://www.leetcode.com/tunaabop/">LeetCode</a>
+- Currently practicing SQL on <a href="https://leetcode.com/u/tunaabop/">LeetCode</a>
 - Always learning! Checkout my <a href="https://www.linkedin.com/in/tunaabop/">LinkedIn</a> portfolio
 
 ✉️ &nbsp;You can shoot me an email at tinawang158@gmail.com! I'll try to respond as soon as I can!
