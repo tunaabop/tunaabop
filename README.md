@@ -11,7 +11,7 @@
 💡 &nbsp;Some technologies I enjoy working with include SQL, Python, Java, React, JavaScript. Currently exploring Java apps and search engines.\
 🌱 &nbsp;I'm on track for learning more about PostgreSQL.
 
-- Checkout my Notion page on learning <a href="https://workable-scowl-3be.notion.site/2e247bf408978115969feb38739d9a76?v=2e247bf408978122905e000c0fd9a1e3">PostgreSQL</a> and my <a href="https://github.com/tunaabop/pgsql-keywords-guide">SQL survival guide README</a>
+- Checkout my Notion page on everything <a href="https://workable-scowl-3be.notion.site/2e247bf408978115969feb38739d9a76?v=2e247bf408978122905e000c0fd9a1e3">PostgreSQL</a>.
 - Currently practicing SQL on <a href="https://leetcode.com/u/tunaabop/">LeetCode</a>
 - Always learning! Checkout my <a href="https://www.linkedin.com/in/tunaabop/">LinkedIn</a> portfolio
 
